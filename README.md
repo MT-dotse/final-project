@@ -17,7 +17,7 @@ MODELS:
 - Todo
 - Role
 
-ENSPOINTS:
+ENDPOINTS:
 
 Task endpoints:
 
